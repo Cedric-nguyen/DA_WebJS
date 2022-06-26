@@ -1,7 +1,7 @@
 # Calculator
 
 ### Introduction
-Máy tính
+Shop Bán Hoa
 
 ### Technologies Used 
 HTML/CSS, JS
